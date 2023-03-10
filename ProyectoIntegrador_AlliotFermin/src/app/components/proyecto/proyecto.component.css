@@ -1,7 +1,7 @@
 .row{
     margin: 0%;
     padding: 20px;
-    background-color: #a1b5cb;
+    background-color: #add8e6;
 }
 
 .contenedor{
@@ -14,5 +14,5 @@
 }
 
 .img-proyecto{
-    box-shadow: 10px 10px 30px #000000;
+    box-shadow: 5px 5px 10px #000000;
 }

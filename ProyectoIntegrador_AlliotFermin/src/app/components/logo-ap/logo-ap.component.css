@@ -24,6 +24,11 @@ img{
     border-width: medium;
 }
 
+#dark-mode-btn{
+    border-color: aliceblue;
+    width: auto;
+}
+
 /* Para la vista de celular */
 @media(max-width: 575){
     .container{
